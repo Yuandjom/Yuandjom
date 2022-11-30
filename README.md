@@ -6,8 +6,7 @@ My name is John 🌱 **`Year 2 undergraduate at NTU`**
 - I love teaching 
 - I like to code during my free time 
 
-
-### 🔭 I’m currently working on full stack development projects 
+🔭 I’m currently working on full stack development projects 
 
 
 ---
@@ -21,9 +20,18 @@ My name is John 🌱 **`Year 2 undergraduate at NTU`**
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
 
 
 ---
+
+#
+
+### 📊 Stats
+
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuandjom&show_icons=true&theme=gruvbox)
+
+#
 
 <!--
 **Yuandjom/Yuandjom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
