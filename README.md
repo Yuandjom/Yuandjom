@@ -4,7 +4,7 @@
 
 My name is John 🌱 **`Year 2 undergraduate at NTU`**
 <br />
-I would like to share 3 things about myself:
+These are 3 fun facts about me:
 - I am happy
 - I love teaching 
 - I like to code during my free time 
