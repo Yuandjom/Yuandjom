@@ -34,6 +34,4 @@ My name is John 🌱 **`Year 2 undergraduate at NTU`**
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuandjom&show_icons=true&theme=gruvbox)
 
-#
-[![LinkedIn](https://img.shields.io/badge/-John_Lim-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-lim-zi-yang/)
 
