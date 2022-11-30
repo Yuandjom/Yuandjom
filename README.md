@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### My name is John 
 <!--
 **Yuandjom/Yuandjom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Awesome GitHub Profile README
 
