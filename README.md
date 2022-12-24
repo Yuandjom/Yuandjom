@@ -36,4 +36,6 @@ These are 3 fun facts about me:
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuandjom&show_icons=true&hide_border=true&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuandjom&" alt="yuandjom" /></p>
+<h3 align="left"> 📈 Leetcode Stats</h3>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ziyangjohn)](https://leetcode.com/ziyangjohn)
