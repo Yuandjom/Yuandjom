@@ -8,7 +8,7 @@ These are 3 fun facts about me:
 - I love teaching
 - I like to code during my free time
 
-🔭 I’m currently working on full stack development projects
+🔭 I’m currently working on full stack software development projects
 
 ### 👨‍💻 Connect with me:
 
