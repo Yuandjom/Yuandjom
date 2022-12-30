@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is John 🌱 **`Year 2 undergraduate at NTU`**
+My name is John 🌱 **`Year 2 undergraduate at NTU studying Business and Computing`**
 
 These are 3 fun facts about me:
 
