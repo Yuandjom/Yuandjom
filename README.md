@@ -11,7 +11,6 @@ These are 3 fun facts about me:
 🔭 I’m currently working on full stack software development projects
 
 ### ❄️ Notable Projects:
-Melvin-Leo2000/StoreIT
 [Melvin-Leo2000/StoreIT](https://github.com/Melvin-Leo2000/StoreIT): Storage solution for NUS students 
 
 ### 👨‍💻 Connect with me:
