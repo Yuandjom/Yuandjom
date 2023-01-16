@@ -12,6 +12,7 @@ These are 3 fun facts about me:
 
 ### ❄️ Notable Projects:
 [Melvin-Leo2000/StoreIT](https://github.com/Melvin-Leo2000/StoreIT): Storage solution for NUS students 
+
 [Purifish/TechTitans-techfest-project](https://github.com/Purifish/TechTitans-techfest-project): NTU TechFest 2023
 
 ### 👨‍💻 Connect with me:
