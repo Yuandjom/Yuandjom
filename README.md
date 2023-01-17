@@ -15,6 +15,15 @@ These are 3 fun facts about me:
 
 [Purifish/TechTitans-techfest-project](https://github.com/Purifish/TechTitans-techfest-project): NTU TechFest 2023
 
+### 📖 Notable Coursework
+- SC1007 Data Structures & Algorithms
+- SC2001 Algorithm Design & Analysis
+- SC2002 Object Oriented Design & Programming
+- SC2006 Software Engineering
+- BC2402 Designing & Developing Databases
+- BC2406 Analytics I: Visual and Predictive Analytics
+- BC2407 Analytics II: Advanced Predictive Analytics
+
 ### 👨‍💻 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-John_Lim-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-lim-zi-yang/)](https://www.linkedin.com/in/john-lim-zi-yang/)
