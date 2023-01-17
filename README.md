@@ -18,6 +18,7 @@ These are 3 fun facts about me:
 - SC1007 Data Structures & Algorithms
 - SC2001 Algorithm Design & Analysis
 - SC2002 Object Oriented Design & Programming
+- SC2005 Operating Systems
 - SC2006 Software Engineering
 - BC2402 Designing & Developing Databases
 - BC2406 Analytics I: Visual and Predictive Analytics
