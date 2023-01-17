@@ -11,9 +11,8 @@ These are 3 fun facts about me:
 🔭 I’m currently working on full stack software development projects
 
 ### ❄️ Notable Projects:
-[Melvin-Leo2000/StoreIT](https://github.com/Melvin-Leo2000/StoreIT): Storage solution for NUS students 
-
-[Purifish/TechTitans-techfest-project](https://github.com/Purifish/TechTitans-techfest-project): NTU TechFest 2023
+- [Melvin-Leo2000/StoreIT](https://github.com/Melvin-Leo2000/StoreIT): Storage solution for NUS students 
+- [Purifish/TechTitans-techfest-project](https://github.com/Purifish/TechTitans-techfest-project): NTU TechFest 2023
 
 ### 📖 Notable Coursework
 - SC1007 Data Structures & Algorithms
