@@ -23,7 +23,7 @@ These are 3 fun facts about me:
 
 - [Yuandjom/SC2006-GETFIT-TeamError202](https://github.com/Yuandjom/SC2006-GETFIT-TeamError202): SC2006 Software Engineering (GetFit)
 
-- [Weikang/Ascendo](https://github.com/weikangg/Ascendo): DSTA Brain Hack 2023 Finalist (Ascendo: Making Work-Life A Winning Game)
+- [Weikang/Ascendo](https://github.com/weikangg/Ascendo): DSTA BrainHack 2023 Finalist (Ascendo: Making Work-Life A Winning Game)
 
 ### 📖 Notable Coursework
 - SC2001 Algorithm Design & Analysis
