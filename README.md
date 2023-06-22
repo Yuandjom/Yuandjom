@@ -26,11 +26,11 @@ These are 3 fun facts about me:
 - [Weikang/Ascendo](https://github.com/weikangg/Ascendo): DSTA Brain Hack 2023 Finalist (Ascendo: Making Work-Life A Winning Game)
 
 ### 📖 Notable Coursework
-- SC1007 Data Structures & Algorithms
 - SC2001 Algorithm Design & Analysis
 - SC2002 Object Oriented Design & Programming
 - SC2005 Operating Systems
 - SC2006 Software Engineering
+- SC2008 Computer Networks
 - BC2402 Designing & Developing Databases
 - BC2406 Analytics I: Visual and Predictive Analytics
 - BC2407 Analytics II: Advanced Predictive Analytics
