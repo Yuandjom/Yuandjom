@@ -49,7 +49,7 @@ These are 3 fun facts about me:
   <h3>Backend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite,postgres,firebase,mysql" />
+      <img src="https://skillicons.dev/icons?i=go,nodejs,express,mongodb,sqlite,postgres,firebase,mysql" />
     </a>
   </p>
   <h3>Cloud Technologies</h3>
