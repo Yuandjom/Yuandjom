@@ -55,7 +55,7 @@ These are 3 fun facts about me:
   <h3>Cloud Technologies</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,dynamodb" />
+      <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,dynamodb,ansible" />
     </a>
   </p>
 <h3>Software (Misc.)</h3>
