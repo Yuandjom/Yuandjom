@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, my name is John</h1>
-<h3 align="center">I am a Year 3 Business & Computer Science Undergraduate Student studying at Nanyang Technological University!</h3>
+<h3 align="center">I am a Final Year Business & Computer Science Undergraduate Student studying at Nanyang Technological University!</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/john-lim-zi-yang/)
@@ -34,6 +34,7 @@ These are 3 fun facts about me:
 - BC2402 Designing & Developing Databases
 - BC2406 Analytics I: Visual and Predictive Analytics
 - BC2407 Analytics II: Advanced Predictive Analytics
+- CS454 Distributed Systems (UWaterloo)
 
 <br />
 
