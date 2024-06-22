@@ -16,14 +16,18 @@ These are 3 fun facts about me:
 🔭 I’m currently working on full stack software development projects
 
 ### ❄️ Notable Projects:
+- [Yuandjom/LastCallSG](https://github.com/Yuandjom/LastCallSG): Open Government Product Build For Good Evironment 2024 (LastCallSG: Discover | Purchase | Collect) 
 
-- [Melvin-Leo2000/StoreIT](https://github.com/Melvin-Leo2000/StoreIT): Storage solution for NUS students 
-
-- [Purifish/TechTitans-techfest-project](https://github.com/Purifish/TechTitans-techfest-project): NTU TechFest 2023
+- [Weikang/Ascendo](https://github.com/weikangg/Ascendo): DSTA BrainHack 2023 Finalist (Ascendo: Making Work-Life A Winning Game)
 
 - [Yuandjom/SC2006-GETFIT-TeamError202](https://github.com/Yuandjom/SC2006-GETFIT-TeamError202): SC2006 Software Engineering (GetFit)
 
-- [Weikang/Ascendo](https://github.com/weikangg/Ascendo): DSTA BrainHack 2023 Finalist (Ascendo: Making Work-Life A Winning Game)
+- [Purifish/TechTitans-techfest-project](https://github.com/Purifish/TechTitans-techfest-project): NTU TechFest 2023
+
+- [Melvin-Leo2000/StoreIT](https://github.com/Melvin-Leo2000/StoreIT): Storage solution for NUS students 
+
+
+
 
 ### 📖 Notable Coursework
 - SC2001 Algorithm Design & Analysis
