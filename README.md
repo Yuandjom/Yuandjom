@@ -15,6 +15,8 @@ These are 3 fun facts about me:
 
 🔭 I’m currently working on full stack software development projects
 
+💻 Website: [Lim Zi Yang John's Website](https://lim-zi-yang-john-portfolio.vercel.app/)
+
 ### ❄️ Notable Projects:
 - [Yuandjom/LastCallSG](https://github.com/Yuandjom/LastCallSG): Open Government Product Build For Good Evironment 2024 (LastCallSG: Discover | Purchase | Collect) 
 
